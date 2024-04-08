@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node index"
+  "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
